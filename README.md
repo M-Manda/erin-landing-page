@@ -31,7 +31,7 @@ A modern, responsive landing page for **Erin Systems LLC**, built using HTML, CS
 ## How to Run
 
 1. Download or clone the repository:
-```bash id="r2"
+
 git clone https://github.com/your-username/erin-landing-page.git
 
 2. Open the project folder
